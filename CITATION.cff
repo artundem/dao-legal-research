@@ -1,6 +1,5 @@
 cff-version: 1.2.0
 message: "If you refer to this seminar paper, please cite it using the metadata below."
-type: misc
 title: "Die gesellschaftsrechtliche Einordnung dezentraler autonomer Organisationen (DAOs) im deutsch-türkischen Rechtsvergleich"
 authors:
   - family-names: "Demirkapı"
@@ -13,3 +12,12 @@ keywords:
   - "comparative law"
   - "German law"
   - "Turkish law"
+preferred-citation:
+  type: generic
+  title: "Die gesellschaftsrechtliche Einordnung dezentraler autonomer Organisationen (DAOs) im deutsch-türkischen Rechtsvergleich"
+  authors:
+    - family-names: "Demirkapı"
+      given-names: "Artun"
+  year: 2026
+  month: 6
+  url: "https://github.com/aaarrttun/dao-legal-research"
