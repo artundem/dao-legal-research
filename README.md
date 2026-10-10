@@ -1,6 +1,6 @@
 # DAOs & Company Law
 
-**A German–Turkish comparative study by Artun Demirkapı**
+**A German–Turkish comparative study by [Artun Demirkapı](https://github.com/artundem)**
 
 How can a decentralized autonomous organization fit into legal forms built around identifiable members, formal incorporation, and personal responsibility?
 
